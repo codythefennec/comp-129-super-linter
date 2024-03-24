@@ -5,7 +5,7 @@ repositories {
 
 // Hold this dependency here so we can get automated updates using DependaBot
 dependencies {
-  implementation 'git@github.com:codythefennec/comp-129-checkstyle.git'
+  implementation 'codythefennec/comp-129-checkstyle@9208cc2d084089264b28252709dfb5289d68c072'
 }
 
 group 'com.github.super-linter'
