@@ -5,7 +5,7 @@ repositories {
 
 // Hold this dependency here so we can get automated updates using DependaBot
 dependencies {
-  implementation 'com.puppycrawl.tools:checkstyle:10.14.2'
+  implementation 'https://github.com/codythefennec/comp-129-checkstyle'
 }
 
 group 'com.github.super-linter'
